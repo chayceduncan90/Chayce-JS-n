@@ -1,16 +1,4 @@
-#AIS QuickBase JavaScript Library
-
-QuickBase API Javascript Library w/ JSON
-
-Versions
-* 4.4 - https://s3.amazonaws.com/ais_libraries/BaseJS/4.4/base.min.js - No longer supports callbacks, only promises
-* 4.3 - https://s3.amazonaws.com/ais_libraries/BaseJS/4.3/base.min.js
-* 3.0 - https://s3.amazonaws.com/ais_libraries/BaseJS/3.0/base.min.js
-
-Related Libraries
-* jQuery - https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js
-* bootstrap.css - https://s3.amazonaws.com/ais_libraries/Bootstrap/3.2/css/bootstrap.min.css
-* bootstrap.js - https://s3.amazonaws.com/ais_libraries/Bootstrap/3.2/js/bootstrap.min.js
+Chayce JS
 
 ##Documentation
 
